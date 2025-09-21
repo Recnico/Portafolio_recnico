@@ -21,7 +21,7 @@ Actualmente, soy Corredor de Propiedades en una empresa familiar con la intenci�
 ¿Cuál es tu formación?
 
 Soy Ingeniero en Conectividad y Redes del Instituto Profesional San Sebastian (Ex IP Ciisa), pero ademas
-Estoy constantemente aprendiendo sobre ciberseguridad y Python. 
+estoy constantemente aprendiendo sobre ciberseguridad y Python. 
 Con experiencia en **Noc de Monitoreo**.
 ¿Por qué deberían contactarte? 
 Soy muy responsable, proactivo y con muchas ganas de aprender.
@@ -37,9 +37,9 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 ---
 
 ## 📂 Proyectos en el portafolio
-- **Seguridad en redes corporativas:** segmentación con VLANs, ACLs, autenticación TACACS+, Syslog y túnel VPN.  
-- **Auditoría y hardening:** checklist de seguridad, registros centralizados y validación con capturas.  
-- **Monitoreo y respuesta:** flujo básico de logging y alertas con herramientas de análisis.  
+- **Creación y manipulación de paquetes:** Uso de herramientas para la creación, manipulación y edición de paquetes con el fin de evaluar la seguridad en redes de datos  - 📝 -[https://n9.cl/wao32b]
+-
+-
 
 ---
 
