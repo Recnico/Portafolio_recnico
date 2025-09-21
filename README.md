@@ -51,11 +51,3 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 ---
 
 ✍️ *Creado con Readme.so*
-
-
-
----
-
-✍️ *Publicado con GitHub Pages.*
-
-
