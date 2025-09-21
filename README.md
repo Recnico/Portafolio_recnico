@@ -1,25 +1,38 @@
-# 🌐 Portafolio de 
+#  Portafolio de Nicolás Pérez Cerda
 
-Bienvenido a mi portafolio virtual, creado como parte de mi desarrollo académico y profesional en **Ingeniería en Conectividad y Redes**.  
-
-🔗 **Versión en línea:** [/)
+Bienvenido a mi portafolio virtual, creado como parte de mi desarrollo académico y profesional en Desafio Latam.
 
 ---
 
-## 🚀 Sobre mí
-Ingeniero en Conectividad y Redes titulado, con experiencia en **ISP, telecomunicaciones y ciberseguridad**.  
-Me apasiona el diseño, implementación y aseguramiento de redes corporativas, con foco en **escalabilidad, estabilidad y seguridad**.
+## 🤖 Sobre mí
 
----
+¿Quién soy?
+
+Soy Nicolás Andres Pérez Cerda
+
+¿De dónde soy?
+
+Santiago Centro, Santiago
+
+¿A qué te dedicas?
+
+Actualmente, soy Corredor de Propiedades en una empresa familiar con la intención de volver al area de Redes Informaticas.
+
+¿Cuál es tu formación?
+
+Soy Ingeniero en Conectividad y Redes del Instituto Profesional San Sebastian (Ex IP Ciisa), pero ademas
+Estoy constantemente aprendiendo sobre ciberseguridad y Python. 
+Con experiencia en **Noc de Monitoreo**.
+¿Por qué deberían contactarte? 
+Soy muy responsable, proactivo y con muchas ganas de aprender.
 
 ## 🛠️ Habilidades destacadas
 - VLANs, Inter-VLAN Routing  
 - OSPF / EIGRP / BGP  
-- ACLs (IPv4 / IPv6)  
+- ACLs   
 - Autenticación TACACS+ y Syslog centralizado  
 - VPNs (IPsec, Site-to-Site)  
-- Kali Linux, Nmap, Wireshark  
-- IoT, cableado estructurado y metodologías ágiles  
+- Kali Linux, Nmap, Wireshark   
 
 ---
 
@@ -31,10 +44,15 @@ Me apasiona el diseño, implementación y aseguramiento de redes corporativas, c
 ---
 
 ## 📬 Contacto
-- 📧 **Correo:** ricardocaceres1104@gmail.com  
-- 📱 **WhatsApp:** 
-- 🐙 [GitHub]
-- 💼 [LinkedIn](https://linkedin.com)  
+- 📧 **Correo:** nicolas.perez.cerda@gmail.com  
+- 🐙 [GitHub](https://github.com/Recnico)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicolasperezcerda/)  
+
+---
+
+✍️ *Creado con Readme.so*
+
+
 
 ---
 
