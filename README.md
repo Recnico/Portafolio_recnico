@@ -1,4 +1,4 @@
-#  Portafolio de Nicolás Pérez Cerda
+#  **Portafolio de Nicolás Pérez Cerda**
 
 Bienvenido a mi portafolio virtual, creado como parte de mi desarrollo académico y profesional en Desafio Latam.
 
