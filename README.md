@@ -16,7 +16,7 @@ Santiago Centro, Santiago
 
 ¿A qué te dedicas?
 
-Actualmente, soy Corredor de Propiedades en una empresa familiar con la intención de volver al area de Redes Informaticas.
+Actualmente, Soporte tecnologico en una Corredor de Propiedades con la intención reconvertir a Ciberseguridad.
 
 ¿Cuál es tu formación?
 
