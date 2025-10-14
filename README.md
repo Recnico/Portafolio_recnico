@@ -38,6 +38,7 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 
 ## 📂 Proyectos en el portafolio
 - **Hardening de Infraestructura y Control de Acceso:** STP, AAA/TACACS+, Seguridad L2 [Archivo Packet Tracert](https://drive.google.com/file/d/1_lOJIwCNiEJEWDgi3_F3XRmY0Wy-Zu7a/view?usp=drive_link)
+- **Soluciones de Seguridad Corporativa:** Firewall Cisco ASA, VPN de Acceso Remoto y Hardening L2/L3 [Archivo Packet Tracert](https://drive.google.com/file/d/19kWHh3tJvBpkttV4DVBgv-Ci5MAmPjTS/view?usp=drive_link)
 - **Implementación de Políticas de Seguridad:** ACL, NAT Estático y Monitoreo (SNMP/SYSLOG) [Archivo Packet Tracert](https://drive.google.com/file/d/10arOpSYmTNtU1tFBdrxiF41rpPDDnyyI/view?usp=drive_link)
 - **Creación y manipulación de paquetes:** Uso de herramientas para la creación, manipulación y edición de paquetes con el fin de evaluar la seguridad en redes de datos - [Link](https://docs.google.com/document/d/11k75Aprja2EnwRwyhLDqeZDp-YjHpLJg/edit?usp=sharing&ouid=108335102691958278528&rtpof=true&sd=true)
 - **Implementación de Alta Disponibilidad (HA L2/L3):** Etherchannel, STP y HSRP [Archivo Packet Tracert](https://drive.google.com/file/d/1iHEpsGeqPmi9f6oS6rK3UVzp7UwSXa9y/view?usp=drive_link)
