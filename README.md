@@ -37,7 +37,7 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 ---
 
 ## 📂 Proyectos en el portafolio
-- **Creación y manipulación de paquetes:** Uso de herramientas para la creación, manipulación y edición de paquetes con el fin de evaluar la seguridad en redes de datos  - 📝 -[https://n9.cl/wao32b]
+- **Creación y manipulación de paquetes:** Uso de herramientas para la creación, manipulación y edición de paquetes con el fin de evaluar la seguridad en redes de datos  - 📝 -[Link]([URL](https://docs.google.com/document/d/11k75Aprja2EnwRwyhLDqeZDp-YjHpLJg/edit?usp=sharing&ouid=108335102691958278528&rtpof=true&sd=true))
 -
 -
 
