@@ -37,7 +37,7 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 ---
 
 ## 📂 Proyectos en el portafolio
-- **Creación y manipulación de paquetes:** Uso de herramientas para la creación, manipulación y edición de paquetes con el fin de evaluar la seguridad en redes de datos - [Link](https://docs.google.com/document/d/1lK7E-qrfiaZEhMnWYLopZDP-Y7HpLjp/edit?usp=sharing&ouid=10833510269532785230&rtpof=true&sd=true)](https://docs.google.com/document/d/11k75Aprja2EnwRwyhLDqeZDp-YjHpLJg/edit?usp=sharing&ouid=108335102691958278528&rtpof=true&sd=true)
+- **Creación y manipulación de paquetes:** Uso de herramientas para la creación, manipulación y edición de paquetes con el fin de evaluar la seguridad en redes de datos - [Link](https://docs.google.com/document/d/1lK7E-qrfiaZEhMnWYLopZDP-Y7HpLjp/edit?usp=sharing&ouid=10833510269532785230&rtpof=true&sd=true)
 -
 -
 
