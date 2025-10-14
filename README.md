@@ -55,6 +55,24 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 | **Documentación de Hallazgos** | Análisis de Incidentes (IR), Reporting y Mitigación | [Link] |
 | **Manipulación de Paquetes** | Evaluación de Seguridad en redes de datos | [Link] |
 
+
+
+## 📁 Proyectos en el portafolio
+
+### 🛡️ Seguridad Avanzada (Firewall, VPN, Hardening)
+* **Soluciones de Seguridad Corporativa: Firewall Cisco ASA, VPN de Acceso Remoto...**
+  * *Foco: Implementación de seguridad perimetral, DMZ y acceso remoto seguro con Cisco ASA.* [Archivo Packet Tracert]
+* **Implementación de Políticas de Seguridad: ACL, NAT Estático y Monitoreo (SNMP/SYSLOG)**
+  * *Foco: Control de tráfico, restricción de acceso (ACL) y visibilidad de red.* [Archivo Packet Tracert]
+
+### ⚙️ Fundamentos de Red y Arquitectura
+* **Implementación de Alta Disponibilidad (HA L2/L3): Etherchannel, STP y HSRP**
+  * *Foco: Asegurar la continuidad operacional de la red con redundancia L2 y L3.* [Archivo Packet Tracert]
+* **Hardening de Infraestructura y Control de Acceso: STP, AAA/TACACS+, Seguridad L2** * *Foco: Seguridad de Capa 2, autenticación centralizada y protección de infraestructura.* [Archivo Packet Tracert]
+
+### 🔍 Ciberseguridad y Análisis
+* **Análisis de Seguridad en Redes de Datos: Testeo con Hping3 y Wireshark** * *Foco: Análisis forense y testeo de conectividad con herramientas de Kali Linux.* [Link]
+* **Documentación de Hallazgos de Seguridad y Mitigación de Vulnerabilidades** * *Foco: Análisis de un Incidente de Seguridad (IR), Reporting y mitigación.* [Link]
 ---
 
 ## 📬 Contacto
