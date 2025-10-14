@@ -46,7 +46,14 @@ Soy muy responsable, proactivo y con muchas ganas de aprender.
 - **Implementación de Alta Disponibilidad (HA L2/L3):** Etherchannel, STP y HSRP [Archivo Packet Tracert](https://drive.google.com/file/d/1iHEpsGeqPmi9f6oS6rK3UVzp7UwSXa9y/view?usp=drive_link)
 
 
-
+| Proyecto | Foco Principal | Enlace |
+| :--- | :--- | :---: |
+| **Seguridad Perimetral ASA/VPN** | Hardening, VPN Acceso Remoto, PAT/NAT | [Archivo Packet Tracert] |
+| **Hardening & AAA (TACACS+)** | Seguridad L2, Control de Acceso, DHCP Snooping | [Archivo Packet Tracert] |
+| **Alta Disponibilidad L2/L3** | Etherchannel, STP, HSRP para Redundancia | [Archivo Packet Tracert] |
+| **Análisis de Tráfico** | Hping3, Wireshark, Identificación de Vulnerabilidades | [Link] |
+| **Documentación de Hallazgos** | Análisis de Incidentes (IR), Reporting y Mitigación | [Link] |
+| **Manipulación de Paquetes** | Evaluación de Seguridad en redes de datos | [Link] |
 
 ---
 
