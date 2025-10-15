@@ -1,31 +1,19 @@
 #  **Portafolio de Nicolás Pérez Cerda**
 
-Bienvenido a mi portafolio virtual, creado como parte de mi desarrollo académico y profesional en Desafio Latam.
-
 ---
 
-## 🤖 Sobre mí
+## 👤 Sobre mí
 
-¿Quién soy?
+Soy **Nicolás Andrés Pérez Cerda**, Ingeniero en Conectividad y Redes, y actualmente me dedico a **Soporte Tecnológico**, buscando la reconversión profesional hacia la **Ciberseguridad**.
 
-Soy Nicolás Andres Pérez Cerda
+**Mi Trayectoria:**
+* Ingeniero en Conectividad y Redes (IP San Sebastián).
+* Experiencia en **NOC de Monitoreo**.
+* Formación continua en Ciberseguridad y Python.
 
-¿De dónde soy?
-
-Santiago Centro, Santiago
-
-¿A qué te dedicas?
-
-Actualmente, Soporte tecnologico en una Corredor de Propiedades con la intención reconvertir a Ciberseguridad.
-
-¿Cuál es tu formación?
-
-Soy Ingeniero en Conectividad y Redes del Instituto Profesional San Sebastian (Ex IP Ciisa), pero ademas
-estoy constantemente aprendiendo sobre ciberseguridad y Python. 
-Con experiencia en **Noc de Monitoreo**.
-¿Por qué deberían contactarte? 
-Soy muy responsable, proactivo y con muchas ganas de aprender.
-
+**¿Por qué contactarme?**
+Soy una persona **responsable, proactiva** y con una fuerte motivación por el aprendizaje constante.
+---
 ## 🛠️ Habilidades destacadas
 - VLANs, Inter-VLAN Routing  
 - OSPF / EIGRP / BGP  
