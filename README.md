@@ -41,12 +41,13 @@ Soy una persona **responsable, proactiva** y con una fuerte motivación por el a
   * *Foco: Asegurar la continuidad operacional de la red con redundancia L2 y L3.* [Archivo Packet Tracert](https://drive.google.com/file/d/1iHEpsGeqPmi9f6oS6rK3UVzp7UwSXa9y/view?usp=drive_link)
 * **Hardening de Infraestructura y Control de Acceso: STP, AAA/TACACS+, Seguridad L2** * *Foco: Seguridad de Capa 2, autenticación centralizada y protección de infraestructura.* [Archivo Packet Tracert](https://drive.google.com/file/d/1_lOJIwCNiEJEWDgi3_F3XRmY0Wy-Zu7a/view?usp=drive_link)
 
----
-
 ## 📬 Contacto
-- 📧 **Correo:** nicolas.perez.cerda@gmail.com  
-- 🐙 [GitHub](https://github.com/Recnico)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicolasperezcerda/)  
+
+| Plataforma | Enlace |
+| :--- | :--- |
+| 📧 Correo | [nicolas.perez.cerda@gmail.com](mailto:nicolas.perez.cerda@gmail.com) |
+| 💼 LinkedIn | [nicolasperezcerda](https://www.linkedin.com/in/nicolasperezcerda/) |
+| 🐙 GitHub | [Recnico](https://github.com/Recnico) |
 
 ---
 
