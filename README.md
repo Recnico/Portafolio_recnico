@@ -19,7 +19,7 @@ Soy una persona **responsable, proactiva** y con una fuerte motivación por el a
 ## 🛠️ Habilidades destacadas
 
 ### 🌐 Redes y Conectividad
-* **Protocolos de Enrutamiento:**RIP/ ESTATIC/ OSPF / EIGRP / BGP.
+* **Protocolos de Enrutamiento:** RIP/ ESTATIC/ OSPF / EIGRP / BGP.
 * **Redes de Acceso:** VLANs, Inter-VLAN Routing.
 * **Alta Disponibilidad:** Implementación de redundancia (HSRP, Etherchannel, STP). 
 
