@@ -19,9 +19,9 @@ Soy una persona **responsable, proactiva** y con una fuerte motivación por el a
 ## 🛠️ Habilidades destacadas
 
 ### 🌐 Redes y Conectividad
-* **Protocolos de Enrutamiento:** OSPF / EIGRP / BGP.
+* **Protocolos de Enrutamiento:**RIP/ ESTATIC/ OSPF / EIGRP / BGP.
 * **Redes de Acceso:** VLANs, Inter-VLAN Routing.
-* **Alta Disponibilidad:** Implementación de redundancia (HSRP, Etherchannel, STP). *(Esto lo sabes por el proyecto de HA)*
+* **Alta Disponibilidad:** Implementación de redundancia (HSRP, Etherchannel, STP). 
 
 ### 🔒 Seguridad de Red y Hardening
 * **Seguridad de Capa 2 (L2):** Hardening de Infraestructura y Control de Acceso (STP, Seguridad L2).
