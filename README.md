@@ -1,5 +1,7 @@
-#  **Portafolio de Nicolás Pérez Cerda**
-
+# 🛡️ Portafolio de Nicolás Pérez Cerda
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ## 👤 Sobre mí
@@ -15,12 +17,10 @@ Soy **Nicolás Andrés Pérez Cerda**, Ingeniero en Conectividad y Redes, y actu
 Soy una persona **responsable, proactiva** y con una fuerte motivación por el aprendizaje constante.
 ---
 ## 🛠️ Habilidades destacadas
-- VLANs, Inter-VLAN Routing  
-- OSPF / EIGRP / BGP  
-- ACLs   
-- Autenticación TACACS+ y Syslog centralizado  
-- VPNs (IPsec, Site-to-Site)  
-- Kali Linux, Nmap, Wireshark   
+
+* **Networking:** VLANs, Inter-VLAN Routing, OSPF/EIGRP/BGP.
+* **Seguridad:** ACLs, Autenticación TACACS+, Syslog, VPNs (IPsec).
+* **Ciberseguridad:** Kali Linux, Nmap, Wireshark.
 
 ---
 ## 📁 Proyectos en el portafolio
