@@ -18,9 +18,21 @@ Soy una persona **responsable, proactiva** y con una fuerte motivación por el a
 ---
 ## 🛠️ Habilidades destacadas
 
-* **Networking:** VLANs, Inter-VLAN Routing, OSPF/EIGRP/BGP.
-* **Seguridad:** ACLs, Autenticación TACACS+, Syslog, VPNs (IPsec).
-* **Ciberseguridad:** Kali Linux, Nmap, Wireshark.
+### 🌐 Redes y Conectividad
+* **Protocolos de Enrutamiento:** OSPF / EIGRP / BGP.
+* **Redes de Acceso:** VLANs, Inter-VLAN Routing.
+* **Alta Disponibilidad:** Implementación de redundancia (HSRP, Etherchannel, STP). *(Esto lo sabes por el proyecto de HA)*
+
+### 🔒 Seguridad de Red y Hardening
+* **Seguridad de Capa 2 (L2):** Hardening de Infraestructura y Control de Acceso (STP, Seguridad L2).
+* **Control de Tráfico:** Listas de Control de Acceso (ACLs).
+* **Autenticación Centralizada:** Configuración de TACACS+ y Syslog centralizado.
+* **VPNs:** Implementación de VPNs (IPsec, Site-to-Site).
+
+### 🔍 Ciberseguridad y Herramientas
+* **Distribuciones:** Kali Linux.
+* **Análisis de Tráfico:** Wireshark.
+* **Mapeo de Red:** Nmap.
 
 ---
 ## 📁 Proyectos en el portafolio
