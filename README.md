@@ -56,6 +56,7 @@ Soy una persona **responsable, proactiva** y con una fuerte motivación por el a
 ## 📊 Análisis de Datos
  
 ### 🔬 Caso de Estudio: EDA para ComercioYA
+🔗 **[EDA para ComercioYA](https://github.com/Recnico/EDA-ComercioYA/tree/main)**
  
 > **Proyecto representativo de mi crecimiento técnico en Análisis de Datos**
  
@@ -138,7 +139,6 @@ Se desarrolló un pipeline de análisis en 6 etapas:
  
 Este proyecto es el más representativo de mi crecimiento porque integra **todo el ciclo del análisis de datos**: desde la exploración inicial hasta la comunicación de hallazgos con recomendaciones estratégicas concretas. No se trató solo de aplicar funciones de Pandas, sino de tomar decisiones analíticas con criterio (como mantener los outliers y justificarlo con argumentos de negocio). Además, refleja mi capacidad para conectar los números con el mundo real, algo que viene de mi experiencia previa trabajando con infraestructura crítica donde los datos de monitoreo siempre tienen consecuencias operacionales.
  
-🔗 **[Ver notebook completo en GitHub](https://github.com/Recnico/EDA-ComercioYA/tree/main)**
 
 ## 📬 Contacto
 
