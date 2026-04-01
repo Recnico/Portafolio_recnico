@@ -41,6 +41,35 @@ tecnológico de los datos desde la capa más profunda.
 Sección a reemplazar en tu README
 ## 📁 Proyectos de Análisis de Datos
 
+## 📁 Proyectos de Análisis de Datos
+
+### 🛒 Análisis de Ventas E-Shop Now
+
+**Contexto:** E-Shop Now es una empresa chilena de retail multicanal
+(tienda física, web y app) que vende en categorías de Tecnología,
+Electrohogar, Vestuario, Calzado y Belleza en 10 ciudades del país.
+
+**Objetivo:** Limpiar, transformar y analizar 1.020 registros de ventas
+del año 2024 para identificar patrones y entregar recomendaciones
+accionables al equipo comercial.
+
+| Detalle | Descripción |
+|---|---|
+| 📅 Período | Enero — Diciembre 2024 |
+| 📝 Registros | 1.020 transacciones |
+| 💰 Venta total | $735.149.500 CLP |
+| 🔧 Herramientas | Excel · Power Query · Power Pivot · Tablas dinámicas |
+
+**Principales hallazgos:**
+- Tecnología y Electrohogar concentran el mayor volumen de ventas
+- El canal App mostró crecimiento sostenido durante el año
+- Se detectaron patrones de descuento con impacto en el margen
+- Santiago lidera en transacciones, seguida de Valparaíso y Concepción
+
+🔗 [Ver repositorio completo](https://github.com/Recnico/Proyecto-EDA-EShopNow)
+
+---
+
 ### 🔍 Caso de Estudio: EDA para ComercioYA
 
 **Contexto:** ComercioYA es una empresa de e-commerce que enfrenta
