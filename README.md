@@ -38,20 +38,32 @@ tecnológico de los datos desde la capa más profunda.
 
 ---
 
+Sección a reemplazar en tu README
 ## 📁 Proyectos de Análisis de Datos
 
-### 🔬 Caso de Estudio: EDA para ComercioYA
+### 🔍 Caso de Estudio: EDA para ComercioYA
 
+**Contexto:** ComercioYA es una empresa de e-commerce que enfrenta
+problemas de rentabilidad. Se solicitó un análisis exploratorio
+para identificar oportunidades de mejora en sus operaciones.
 
-> **Proyecto representativo de mi crecimiento técnico en Análisis de Datos**
- 
-@@ -138,16 +139,15 @@
+**Objetivo:** Identificar patrones de venta, productos críticos
+y comportamiento de clientes para apoyar la toma de decisiones.
 
-Este proyecto es el más representativo de mi crecimiento porque integra **todo el ciclo del análisis de datos**: desde la exploración inicial hasta la comunicación de hallazgos con recomendaciones estratégicas concretas. No se trató solo de aplicar funciones de Pandas, sino de tomar decisiones analíticas con criterio (como mantener los outliers y justificarlo con argumentos de negocio). Además, refleja mi capacidad para conectar los números con el mundo real, algo que viene de mi experiencia previa trabajando con infraestructura crítica donde los datos de monitoreo siempre tienen consecuencias operacionales.
+| Detalle | Descripción |
+|---|---|
+| 📦 Dataset | Ventas históricas de e-commerce |
+| 🔧 Herramientas | Python · Pandas · Seaborn · Matplotlib · Jupyter |
+| 📐 Técnicas | EDA, estadística descriptiva, tratamiento de outliers |
+| 💡 Resultado | Recomendaciones estratégicas basadas en datos |
 
-🔗 **[Ver notebook completo en GitHub](https://github.com/Recnico/EDA-ComercioYA/tree/main)**
+**Principales hallazgos:**
+- Identificación de productos con mayor y menor rentabilidad
+- Detección de patrones de compra por categoría y período
+- Análisis de valores atípicos con justificación de negocio
+- Recomendaciones concretas para optimizar el mix de productos
 
-**Tecnologías:** Python · Pandas · Seaborn · Jupyter Notebook
+🔗 [Ver notebook completo en GitHub](https://github.com/Recnico/EDA-ComercioYA/tree/main)
 
 ---
 
