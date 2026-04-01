@@ -40,10 +40,16 @@ tecnológico de los datos desde la capa más profunda.
 
 ## 📁 Proyectos de Análisis de Datos
 
-### 🔍 [Análisis Exploratorio de Datos — [nombre de tu dataset]](URL_DEL_REPO)
-> Exploración completa de un dataset usando Python, Pandas y visualizaciones
-> con Matplotlib/Seaborn. Incluye limpieza de datos, estadística descriptiva
-> e identificación de patrones e insights.
+### 🔬 Caso de Estudio: EDA para ComercioYA
+
+
+> **Proyecto representativo de mi crecimiento técnico en Análisis de Datos**
+ 
+@@ -138,16 +139,15 @@
+
+Este proyecto es el más representativo de mi crecimiento porque integra **todo el ciclo del análisis de datos**: desde la exploración inicial hasta la comunicación de hallazgos con recomendaciones estratégicas concretas. No se trató solo de aplicar funciones de Pandas, sino de tomar decisiones analíticas con criterio (como mantener los outliers y justificarlo con argumentos de negocio). Además, refleja mi capacidad para conectar los números con el mundo real, algo que viene de mi experiencia previa trabajando con infraestructura crítica donde los datos de monitoreo siempre tienen consecuencias operacionales.
+
+🔗 **[Ver notebook completo en GitHub](https://github.com/Recnico/EDA-ComercioYA/tree/main)**
 
 **Tecnologías:** Python · Pandas · Seaborn · Jupyter Notebook
 
