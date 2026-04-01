@@ -38,9 +38,6 @@ tecnológico de los datos desde la capa más profunda.
 
 ---
 
-Sección a reemplazar en tu README
-## 📁 Proyectos de Análisis de Datos
-
 ## 📁 Proyectos de Análisis de Datos
 
 ### 🛒 Análisis de Ventas E-Shop Now
