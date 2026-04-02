@@ -66,6 +66,29 @@ accionables al equipo comercial.
 🔗 [Ver repositorio completo](https://github.com/Recnico/Proyecto-EDA-EShopNow)
 
 ---
+### 🐍 Pipeline de Análisis de Clientes E-Commerce — Python
+
+**Contexto:** Pipeline completo de datos construido íntegramente en
+Python, integrando 4 fuentes distintas (NumPy, CSV, Excel y web)
+en un dataset unificado de 110 registros de clientes.
+
+**Objetivo:** Consolidar, limpiar y segmentar clientes de e-commerce
+por comportamiento de compra para identificar oportunidades comerciales.
+
+| Detalle | Descripción |
+|---|---|
+| 🔢 Fuentes integradas | NumPy · CSV · Excel · Web (requests) |
+| 📝 Dataset final | 110 registros · 8 columnas |
+| 🔧 Herramientas | Python · NumPy · Pandas · Seaborn · Jupyter |
+| 💡 Técnicas | Merge, limpieza, IQR, segmentación, pivot |
+
+**Principales hallazgos:**
+- 5 clientes VIP generan casi el mismo ingreso que 100 clientes estándar
+- 2 outliers detectados con montos de $5.000 y $4.800
+- Segmento Activo identificado como oportunidad de upselling
+
+🔗 [Ver repositorio completo](https://github.com/Recnico/Analisis_de_Clientes_E-Commerce)
+
 
 ### 🔍 Caso de Estudio: EDA para ComercioYA
 
