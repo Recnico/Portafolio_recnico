@@ -13,15 +13,14 @@
 
 ## 👤 Sobre mí
 
-Ingeniero en Conectividad y Redes en transición hacia el mundo del
-**Análisis de Datos**. Formado en el programa Talento Digital para Chile
-(SENCE), con conocimientos en Python, Pandas, SQL, visualización de datos
-y Business Intelligence con Power BI.
+**Ingeniero en Conectividad y Redes** con más de 10 años de experiencia técnica, especializado en la intersección de **Ciberseguridad y Análisis de Datos**. Mi trayectoria se ha centrado en el monitoreo de infraestructura crítica (NOC) y la protección de entornos corporativos, habilidades que hoy potencio con capacidades de programación y analítica.
 
-Busco mi primer rol como **Data Analyst**, aportando además mi experiencia
-técnica en infraestructura y redes, que me permite entender el contexto
-tecnológico de los datos desde la capa más profunda.
+**¿Por qué mi perfil encaja en un SOC?**
+* **Pensamiento Analítico:** Capacidad para transformar grandes volúmenes de logs y tráfico de red en información accionable mediante Python (Pandas/NumPy) y Power BI.
+* **Base Técnica Sólida:** Amplio dominio en configuración de Firewalls (Cisco ASA), monitoreo SIEM (Wazuh) y análisis forense con Wireshark.
+* **Enfoque en Resultados:** Elaboración de informes técnicos de fallas y seguimiento de SLAs en entornos de alta exigencia como Carabineros de Chile.
 
+Mi objetivo es aplicar la ciencia de datos para anticipar amenazas, optimizar el procesamiento de eventos de seguridad y fortalecer la resiliencia operativa de la infraestructura.
 ---
 
 ## 🛠️ Habilidades técnicas
